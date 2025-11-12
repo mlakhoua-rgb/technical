@@ -3,17 +3,17 @@
 **VP/Director, Service Delivery & Cloud Operations**  
 Building profitable, resilient cloud service organizations across Europe & MENA
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/benlakhoua)
 [![Email](https://img.shields.io/badge/Email-mo@metafive.one-red)](mailto:mo@metafive.one)
 
 ---
 
 ## 👋 Welcome
 
-This repository documents my **hands-on technical capabilities** and leadership experience across cloud infrastructure, DevOps, and platform engineering. While I operate at VP/Director level focusing on strategy, P&L, and team leadership, I maintain deep technical expertise and can be hands-on when needed—particularly valuable for startups and scale-ups.
+This repository documents my **hands-on technical capabilities** and leadership experience across Datacenters/cloud infrastructure, DevOps, and platform engineering. While I operate at VP/Director level focusing on strategy, P&L, and team leadership, I maintain deep technical expertise and can be hands-on when needed—particularly valuable for startups and scale-ups.
 
 **Key Stats:**
-- 🎯 **25+ years** in cloud operations and service delivery
+- 🎯 **25+ years** in Datacenter/cloud operations, IT infrastructure setup and service delivery. 
 - 💰 **€13M+ budgets** managed with 25-40% EBIT margins
 - 🏆 **100% client retention** over 14 years
 - 📈 **99.9-99.99% uptime** across government, financial, and enterprise platforms
@@ -49,7 +49,7 @@ Third-party endorsements and recommendations:
 - **Team Building**: Built 3-layer management structures, scaled teams from 5→50, 95%+ retention
 - **Financial Performance**: Consistently delivered 25-40% EBIT margins while maintaining quality
 
-### **For Startups & Scale-ups (Hands-On Flexibility):**
+### **For Startups & Scale-ups (Hands-On Flexibility with AI Assistance):**
 - **Day 1 Execution**: Can architect and implement cloud infrastructure from ground zero
 - **Rapid Team Building**: Hire and scale technical teams while remaining hands-on initially
 - **AI-Augmented Efficiency**: Leverage GitHub Copilot, ChatGPT, Claude for accelerated delivery
@@ -112,7 +112,7 @@ I believe in **"hands-off leadership with hands-on capability"**:
 
 **Available:** December 2025  
 **Location:** Paris, Île-de-France, France (Open to hybrid/remote in EU)  
-**Visa Status:** French resident, EU work authorization
+**Visa Status:** French resident, Passport Talent - Highly Skilled Category
 
 **Reach out for:**
 - VP/Director/Head of Operations, Infrastructure, Service Delivery roles
@@ -120,8 +120,7 @@ I believe in **"hands-off leadership with hands-on capability"**:
 - Speaking engagements on DevOps culture and operational excellence
 
 **Email:** mo@metafive.one  
-**Phone:** +33 6 49 33 52 78  
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+**LinkedIn:** [linkedin.com/in/benlakhoua](https://linkedin.com/in/benlakhoua)
 
 ---
 
