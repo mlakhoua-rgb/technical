@@ -86,7 +86,7 @@ HPA/VPA configuration, and namespace-level quotas.
 
 ---
 
-### **Claude AI** | Proficiency: Advanced | Usage: Weekly
+### **Claude AI** | Proficiency: Advanced | Usage: Daily
 **Primary Use Cases:**
 - Long-form technical documentation
 - Complex architecture reviews
@@ -124,15 +124,17 @@ Provide:
 
 ---
 
-### **Rovo AI (Atlassian)** | Proficiency: Intermediate | Usage: Project-specific
+### **Rovo AI (Atlassian)** | Proficiency: Expert | Usage: Creates agents to report status close to real-time of 60 SDLC Jira active projects
 **Primary Use Cases:**
+- Projects status reporting to all delivery team
+- Identify blockers and dependencies 
 - Jira workflow automation
 - Pattern recognition in historical data
 - Intelligent ticket routing
-- Automated documentation from Jira/Confluence
+- Automated documentation from Jira/Notion
 
 **Example:**
-- Analyzed 10,000+ Jira tickets to identify bottlenecks
+- Analyzed 1,000+ Jira tickets to identify bottlenecks, delays, unattended tickets ... 
 - Rovo suggested workflow improvements
 - Implemented changes, reduced ticket resolution time by 30%
 
@@ -148,6 +150,7 @@ Write Terraform module: 2-4 hours
 Research best practices: 1 hour
 Test and debug: 1-2 hours
 Total: 4-7 hours
+Note: I had a 5 DevOps expert technical team handling this area. 
 ```
 
 **With AI Assistance:**
