@@ -141,8 +141,7 @@ mohamed-tech-portfolio/
 │
 ├── README.md                          ← You are here
 ├── TECHNICAL-SKILLS.md                ← Comprehensive skills matrix
-├── HANDS-ON-EXPERIENCE.md             ← Project implementations
-├── AI-WORKFLOW.md                     ← AI-assisted development approach
+├── AI-WORKFLOW.md                     ← AI-assisted hands-on approach
 ├── CERTIFICATIONS.md                  ← Professional certifications
 ├── TRAINING.md                        ← Training and courses
 ├── RECOMMENDATIONS.md                 ← LinkedIn recommendations export
