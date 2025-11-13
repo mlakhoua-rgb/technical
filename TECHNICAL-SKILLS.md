@@ -19,32 +19,32 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 ### Microsoft Azure
 | Service/Technology | Proficiency | Experience | Key Implementations |
 |-------------------|-------------|------------|---------------------|
-| **Azure Application Gateway** | Advanced | 3 years | 250 websites deployment for Heidelberg Material |
-| **Azure VPN Gateway** | Advanced | 3 years | 250 websites deployment for Heidelberg Material |
-| **Azure DNS** | Advanced | 3 years | 250 websites deployment for Heidelberg Material |
-| **Azure Front Door** | Advanced | 3 years | 250 websites deployment for Heidelberg Material |
-| **Azure Security Center** | Advanced | 3 years | 250 websites deployment for Heidelberg Material |
-| **Azure DDoS Protection** | Advanced | 3 years | 250 websites deployment for Heidelberg Material |
-| **Azure Key Vault** | Advanced | 3 years | 250 websites deployment for Heidelberg Material |
-| **VMs (Compute)** | Advanced | 3 years | 250 websites deployment for Heidelberg Material |
+| **Azure Application Gateway** | Advanced | 3 years | CMS Websites deployment for Heidelberg Material |
+| **Azure VPN Gateway** | Advanced | 3 years | CMS Websites deployment for Heidelberg Material |
+| **Azure DNS** | Advanced | 3 years | CMS Websites deployment for Heidelberg Material |
+| **Azure Front Door** | Advanced | 3 years | CMS Websites deployment for Heidelberg Material |
+| **Azure Security Center** | Advanced | 3 years | CMS Websites deployment for Heidelberg Material |
+| **Azure DDoS Protection** | Advanced | 3 years | CMS Websites deployment for Heidelberg Material |
+| **Azure Key Vault** | Advanced | 3 years | CMS Websites deployment for Heidelberg Material |
+| **VMs (Compute)** | Advanced | 3 years | CMS Websites deployment for Heidelberg Material |
 | **Azure AD** | Advanced | 3 years | Identity management, SSO, MFA |
-| **Azure CDN** | Advanced | 3 years | Global 250 websites operations for Heidelberg Material |
+| **Azure CDN** | Advanced | 3 years | CMS Websites deployment for Heidelberg Material |
 
 
 ### Amazon Web Services (AWS)
 | Service/Technology | Proficiency | Experience | Key Implementations |
 |-------------------|-------------|------------|---------------------|
-| **EC2 (Compute)** | Intermediate | 3 years | 4-5 DevOps Tech team in charge but should be able to handle if needed  |
-| **Application Load Balancer** | Intermediate | 3 years | 4-5 DevOps Tech team in charge but should be able to handle if needed |
-| **AWS VPN** | Intermediate | 3 years | 4-5 DevOps Tech team in charge but should be able to handle if needed  |
-| **S3 (Storage)** | Intermediate | 3 years | 4-5 DevOps Tech team in charge but should be able to handle if needed  |
-| **Route 53** | Intermediate |2 years | 4-5 DevOps Tech team in charge but should be able to handle if needed  |
-| **CloudWatch** | Intermediate | 3 years | 4-5 DevOps Tech team in charge but should be able to handle if needed  |
-| **IAM** | Intermediate | 3 years | 4-5 DevOps Tech team in charge but should be able to handle if needed  |
-| **VPC Networking** | Intermediate | 3 years | 4-5 DevOps Tech team in charge but should be able to handle if needed  |
-| **CloudFormation** | Intermediate* | 3 years | IaC templates with AI assistance |
+| **EC2 (Compute)** | Intermediate | 3 years | 5 DevOps/SRE Tech team in charge but should be able to cover if needed  |
+| **Application Load Balancer** | Intermediate | 3 years | 5 DevOps/SRE Tech team in charge but should be able to cover if needed |
+| **AWS VPN** | Intermediate | 3 years | 5 DevOps/SRE Tech team in charge but should be able to cover if needed  |
+| **S3 (Storage)** | Intermediate | 3 years | 5 DevOps/SRE Tech team in charge but should be able to cover if needed  |
+| **Route 53** | Intermediate |2 years | 5 DevOps/SRE Tech team in charge but should be able to cover if needed  |
+| **CloudWatch** | Intermediate | 3 years | 5 DevOps/SRE Tech team in charge but should be able to cover if needed  |
+| **IAM** | Intermediate* | 3 years | 5 DevOps/SRE Tech team in charge but should be able to cover if needed  |
+| **VPC Networking** | Intermediate* | 3 years | 5 DevOps/SRE Tech team in charge but should be able to cover if needed  |
+| **CloudFormation** | Intermediate* | 3 years | 5 DevOps/SRE Tech team in charge but should be able to cover if needed |
 | **Cost Optimization** | Expert | 6+ years | $250K+ annual savings, FinOps discipline |
-*Used with AI copilots for efficient template generation
+*With AI copilots 
 
 ---
 
@@ -52,25 +52,34 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 
 | Technology | Proficiency | Experience | Key Implementations |
 |------------|-------------|------------|---------------------|
-| **Kubernetes** | Intermediate | 2 years | Role: Architect and Project Manager of the implementation |
-| **OpenShift** | Intermediate | 4 years | Role: Architect and Project Manager of the implementation  |
-| **Helm** | Intermediate | 2 years | Role: Architect and Project Manager of the implementation  |
-| **Docker Compose** | Advanced | 5 years | Role: Architect and Project Manager of the implementation |
+| **Kubernetes** | Intermediate | 2 years | Architect and Project Manager of the implementation |
+| **OpenShift** | Intermediate | 4 years | Architect and Project Manager of the implementation  |
+| **Helm** | Intermediate | 2 years | Architect and Project Manager of the implementation  |
+| **Docker Compose** | Advanced | 5 years | Architect and Project Manager of the implementation |
 
 ---
 
-## 🔐 Security & Compliance
+## 🔐 Networking, Security & Compliance
 
 ### Security Technologies
 | Technology | Proficiency | Experience | Key Implementations |
 |------------|-------------|------------|---------------------|
-| **AWS IAM** | Advanced | 6+ years | Role-based access, policy automation, MFA |
 | **Palo Alto Firewalls** | Intermediate | 4 years | Next-gen firewall configuration for government clients |
-| **Cisco ASA** | Expert | 10+ years  | Enterprise firewall management |
+| **Cisco ASA/IDS** | Expert | 10+ years  | Enterprise firewall management |
 | **Cloudflare WAF** | Advanced | 5 years | Web application firewall, DDoS protection |
 | **Zero-Trust Architecture** | Advanced | 6+ years | Implemented for government and financial clients |
 | **MPLS Private Cloud** | Advanced | 6 years | G2G e-services for Abu Dhabi government |
 | **SSL/TLS Management** | Advanced | 10+ years | Certificate automation, renewal workflows |
+
+### Networking Technologies
+| Technology | Proficiency | Experience |
+|------------|-------------|------------|
+| **CISCO Load Balancing** | Advanced | 5+ years |
+| **F5 Load Balancing** | Intermediate | 3 years |
+| **DNS Management** | Advanced | 10+ years |
+| **SMTP Management** | Advanced | 10+ years |
+| **VPN Configuration** | Intermediate | 5 years |
+
 
 ### Compliance & Governance
 | Framework | Proficiency | Experience | Key Implementations |
@@ -91,7 +100,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 |------------|-------------|------------|----------|
 | **Terraform** | Intermediate* | 3 years | Module creation with AI assistance (GitHub Copilot) |
 | **CloudFormation** | Intermediate* | 3 years | AWS resource provisioning with AI templates |
-| **Ansible** | Intermediate | 3 years | Configuration management, server provisioning |
+| **Ansible** | Intermediate* | 3 years | Configuration management, server provisioning |
 *Proficient with AI copilots for accelerated configuration and provisioning 
 
 ### CI/CD Pipelines
@@ -99,7 +108,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 |------------|-------------|------------|---------------------|
 | **Octopus Deploy** | Advanced | 4 years | Automated deployments for Sitecore CI/CD Pipeline |
 | **GitHub Actions** | Intermediate* | 2 years | Automated deployments with AI-generated workflows |
-| **GitLab CI** | Intermediate | 3 years | Pipeline configuration for enterprise projects |
+| **GitLab CI** | Intermediate* | 3 years | Pipeline configuration for enterprise projects |
 | **Jenkins** | Intermediate | 4 years | Legacy CI/CD systems maintenance |
 | **Jira Service Management** | Advanced | 5 years | 20+ ITSM workflows, automation rules |
 
@@ -121,6 +130,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **CloudWatch** | Advanced | 6 years | AWS-native monitoring, custom metrics |
 | **Opsgenie** | Advanced | 4 years  |24/7/365 Team rotation across multiple Time Zone  |
 | **PagerDuty** | Advanced | 5 years | Incident management, on-call rotation |
+| **Status Page** | Advanced | 5 years | End-users and community transparency on incidents and resolution progress |
 
 ### SRE Practices
 - **SLO/SLA Management**: Maintained 99.9-99.99% uptime across platforms
@@ -141,18 +151,6 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **Redis** | Intermediate | 3 years | Caching layers, session management |
 | **Elasticsearch** | Intermediate | 2 years | Search and analytics |
 
----
-
-## 🌐 Networking & Load Balancing
-
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| **AWS ELB/ALB** | Advanced | 5 years |
-| **Nginx** | Advanced | 8 years |
-| **HAProxy** | Intermediate | 3 years |
-| **Cloudflare Load Balancing** | Advanced | 4 years |
-| **DNS Management** | Advanced | 10+ years |
-| **VPN Configuration** | Intermediate | 5 years |
 
 ---
 
@@ -160,12 +158,14 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 
 | Language | Proficiency | Experience | Use Cases |
 |----------|-------------|------------|-----------|
-| **Bash/Shell** | Advanced | 15+ years | Automation scripts, system administration |
+| **ActionScript** | Advanced | 6+ years | Dynamic DB driven animations on Flash |
+| **PL/SQL** | Advanced | 6+ years | Systems Development with Oracle Developer |
+| **C/C++/C#** | Advanced | 6+ years | Sharepoint and Sitecore Administration |
+| **Bash/Shell** | Intermediate* | 15+ years | Automation scripts, system administration |
 | **Python** | Intermediate* | 5 years | Infrastructure automation, data processing with AI assistance |
-| **SQL** | Advanced | 10+ years | Database queries, optimization, reporting |
-| **PowerShell** | Foundational | 2 years | Windows server automation |
-
-*Actively using AI copilots (GitHub Copilot, ChatGPT, Claude) for efficient development
+| **MS SQL** | Advanced | 10+ years | Database queries, optimization, reporting |
+| **PowerShell** | Intermediate* | 2 years | Windows server automation |
+*Actively using AI copilots (GitHub Copilot, ChatGPT, Claude, Perplexity) for efficient development
 
 ---
 
@@ -176,7 +176,8 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **GitHub Copilot** | Advanced | 2 years | Code generation, documentation, debugging |
 | **ChatGPT** | Advanced | 2 years | Terraform modules, script writing, troubleshooting |
 | **Claude AI** | Advanced | 1 year | Complex problem-solving, architecture review |
-| **Rovo AI** | Advanced | 2 yeasr | Workflow automation at The Sandbox |
+| **Rovo AI** | Advanced | 2 years | Workflow automation at The Sandbox with multiple Agents |
+| **Perplexity AI** | Advanced | 2 years | Research papers and trusted technical resources |
 
 ---
 
@@ -189,6 +190,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **Change Management** | Expert | 15+ years | CAB processes, risk assessment |
 | **Incident Management** | Expert | 15+ years | <15min MTTR, automated escalations |
 | **Problem Management** | Expert | 15+ years | Root cause analysis, preventive measures |
+| **Business Continuity Management** | Expert | 15+ years | Disaster Recovery and Business Continuity Plans  |
 
 ---
 
@@ -199,6 +201,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **Sitecore** | Advanced | 6 years | 8+ e-government portals for Abu Dhabi |
 | **Oracle WebCenter** | Intermediate | 5 years | Government content management |
 | **WordPress** | Intermediate | 5 years | Corporate websites, blogs |
+| **MS Sharepoint** | Expert | 10+ years | Corporate intranet/internet/extranet websites |
 
 ---
 
