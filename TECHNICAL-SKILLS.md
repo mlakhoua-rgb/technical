@@ -249,20 +249,90 @@ I maintain technical proficiency through:
 ---
 
 ## 📊 Skills Development Timeline
-
+1994-1995 – Final Engineering Project (6 months)
+Designed and implemented a high-performance video add-on card capable of ingesting two analog video signals, digitizing them via custom-designed electronics, and executing real-time motion detection and direction forecasting using a Xilinx FPGA. This involved board-level schematic design, signal conditioning, analog-to-digital conversion, FPGA logic development (HDL) for motion vector estimation, and integration with video I/O. Achieved an “Excellent” grade (16/20) on the basis of innovation, technical execution and performance.
 ```
-1997-2008: Foundation (Qatar)
-- Oracle Developer/Designer/RAC, Microsoft Windows Servers/Exchange/Sharepoint, Macromedia Dreamweaver/Fireworks/Flash, CISCO CCNA, Enterprise IT, ITIL
-Note: I have trainined around 1000 ICT professionals on above technologies through my 10 years work duration and I kept updating my skills and training materials on each new released version, myself :) 
+# 💼 Professional Timeline
 
-2008-2018: Scale (Abu Dhabi)
-- e-Government platforms based on Solaris, RHEL, Oracle WCP/WCC/OSB and CISCO ASA/CSS/IDS - ISO 27001, Zero-Trust
+---
 
-2018-2022: Enterprise DevOps (Berlin)
-- Sitecore IaaS, PaaS and SaaS, MS Azure, OpenShift, DevOps culture and practices 
+## 1997–2008 · Foundation (Qatar)
+Built **five enterprise datacenters from scratch** over 10 years, covering full-stack infrastructure engineering:
 
-2022-2025: Modern Cloud Operations (Paris)
-- AWS, Cloudflare, Cloudinary, Redis, Web3, Atlassian and AI-assisted administration and audit.
+- **Networking:** Cisco Catalyst/Nexus, ASA/Pix, Juniper SRX/EX, VLANs, STP, OSPF/BGP  
+- **Servers & Virtualization:** HP/IBM/DELL server farms, VMware ESXi/vCenter, Hyper-V, clustering, HA/DR design  
+- **Storage:** EMC VNX/Isilon, NetApp FAS, SAN/NAS, Fibre Channel, zoning, replication  
+- **Operating Systems:** MS Windows Server AD/DNS/DHCP, hardening (CIS)  
+- **Security:** Firewalls, IPS/IDS, VPN, PKI, IAM, SIEM integration, segmentation  
+- **Data Center Engineering:** Rack/stack, structured cabling, power redundancy, cooling, physical layout, failover testing  
+- **Operational Readiness:** CMDB, ITIL processes, NOC setup, incident/alert flows, disaster-recovery drills  
+
+Delivered **production-grade, secure, and highly available infrastructure** for mission-critical government and enterprise systems.
+
+**Business Systems Engineering:** Oracle Developer/Designer/RAC, Macromedia Dreamweaver/Fireworks/Flash  
+**Training Impact:** Trained **~1,000 ICT professionals** over 10 years, continuously updating materials across each new technology release.
+
+---
+
+## 2008–2018 · Scale (Abu Dhabi)
+Engineered and operated large-scale **e-Government platforms** running on Solaris + RHEL with complex Oracle middleware and enterprise-grade security:
+
+- **Platform Stack:** Solaris 10/11, RHEL 6/7, Oracle WebCenter Portal (WCP), WebCenter Content (WCC), Oracle Service Bus (OSB), Oracle Database RAC  
+- **Middleware & Integration:** SOA Suite, JVM tuning, connection pools, HA clusters, F5 load balancers, multi-tier architectures  
+- **Networking & Security:** Cisco ASA, Cisco CSS, Cisco IDS/IPS, site-to-site VPN, micro-segmentation, Squid reverse proxies, zero-trust patterns  
+- **Performance & Reliability:** Capacity planning, JVM tuning, routing optimization, caching, HA/DR failover, multi-DC Active-Active replication  
+- **Hardening & Compliance:** CIS benchmarks (Solaris + RHEL), ISO 27001 controls, auditing, log retention, patch governance with monthly reporting to ADSIC  
+- **Automation & Operations:** Shell scripting, cron automation, log pipelines, backup/restore procedures, performance dashboards, custom health checks  
+- **Observability:** ADNET SOC/SIEM, syslog, SNMP, Oracle EM, ManageEngine, custom middleware probes  
+- **Secure SDLC & Zero-Trust:** Least-privilege access, privileged account separation, identity boundaries, API-level authentication, trust minimization  
+
+Delivered **mission-critical, high-availability e-Government services** supporting 24/7 operations for millions of users across Abu Dhabi.
+
+---
+
+## 2018–2022 · Enterprise DevOps (Berlin)
+Led enterprise-scale **DevOps, Cloud, and Platform Engineering** across Azure, OpenShift, Sitecore, and large VMware environments:
+
+- **Cloud & Infrastructure:** Azure (VMs, Storage, VNETs, CDN), hybrid networking, VPN/ExpressRoute  
+- **On-Prem Virtualization:** VMware vSphere/ESXi, vCenter, distributed switches, template provisioning, snapshots/clones, HA/DRS clusters, lifecycle of **~500 CentOS VMs**  
+- **Sitecore Stack:** IaaS/PaaS/SaaS deployments, CM/CD clusters, Solr search, content delivery scaling  
+- **Containers & Platform Engineering:** OpenShift OCP 3.x/4.x, Operators, ImageStreams, Routes, service mesh, upgrades, quotas, governance, pricing models for German e-Gov MVPs  
+- **CI/CD & Automation:** Azure DevOps, GitLab CI, YAML pipelines, automated infra builds, ArgoCD, artifact versioning, IaC initiation  
+- **Security & Compliance:** Zero-trust, RBAC, Key Vault, secrets rotation, image hardening, vulnerability remediation (mainly on-prem)  
+- **Monitoring & Observability:** Prometheus/Grafana, OpenShift Monitoring, Application Insights, Log Analytics, distributed tracing, custom probes, SLO/SLI dashboards  
+- **DevOps Culture:** DORA metrics, GitOps, postmortems, chaos drills, reliability coaching  
+- **Scalability & Performance:** AKS autoscaling (HPA/KEDA), Cloudflare CDN, caching, build/deploy optimizations, tuning for **Java, LAMP, .NET e-Gov microservices**  
+
+Delivered **secure, reliable, scalable** platforms for German/EU government services while institutionalizing modern DevOps and SRE practices.
+
+---
+
+## 2022–2025 · Modern Cloud Operations (Paris)
+Directed global **Cloud Operations, DevOps governance, and release orchestration** across teams in France, Germany, Singapore, and the UAE for a large-scale Web3 gaming ecosystem.
+
+- **Cloud & Platform Stack:** AWS (EC2, ALB/ELB, S3, CloudFront, IAM, VPC, Route53), Cloudflare CDN/WAF/DDoS, Cloudinary, Redis, Web3 infra (RPC endpoints, indexers, wallets)  
+- **Cloudflare Security:** WAF tuning, DDoS mitigation, Bot Management, IP rate-limits, caching, traffic shaping, continuous attack-pattern analysis  
+- **Global Release Orchestration:** Unified CI/CD & release standards, trunk-based development, environment promotion flows, deployment safety, synchronized releases across **4–5 time zones**  
+- **DevOps Governance:** GitOps alignment, SLO/SLI frameworks, incident playbooks, blameless postmortems, change-management gates, operational KPIs  
+
+### Tooling & Collaboration Unification
+- Consolidated all teams onto **Atlassian Jira**, unifying Jira + ClickUp + Monday  
+- Centralized documentation into **Notion**, replacing Google Workspace, GitBook, and fragmented Notion setups  
+- Implemented structure, templates, permissions, and documentation workflows
+
+### Security Programs
+- Designed and operationalized the **Bug Bounty program** (scope, workflows, triage, validation, disclosure)  
+- Ran the program end-to-end until CISO onboarding, managing researcher interactions, patch coordination, and policy refinement  
+
+### Delivery Tooling
+- Jira workflows, release dashboards, Confluence governance, Bitbucket integrations, automation rules, operational playbooks  
+
+### AI-Assisted Operations
+- Used ChatGPT/Claude for config audits, pipeline analysis, release reviews, documentation, and troubleshooting  
+
+Delivered **operational predictability, security hardening, and unified collaboration tooling** across a globally distributed engineering organization.
+
+
 
 2025+: Executive + Hands-On Capability
 - Strategic leadership with maintained technical depth
