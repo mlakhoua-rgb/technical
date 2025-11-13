@@ -10,7 +10,7 @@ Third-party validation from executives, clients, colleagues, and team members ac
 
 **By Category:**
 - **C-Level Executives & Senior Leaders:** 3 recommendations
-- **Clients & Strategic Partners:** 2 recommendations
+- **Clients & Strategic Partners:** 3 recommendations
 - **Peers & Colleagues:** 7 recommendations
 - **Direct Reports (Team Members):** 11 recommendations
 
@@ -73,7 +73,7 @@ Based on 23 recommendations received, common themes include:
 
 ### **Dr. Usman Zafar** | Global CEO & Board Advisor
 **Date:** November 9, 2025  
-**Relationship:** Worked with Mohamed on the same team at init AG (UAE)  
+**Relationship:** Worked with Mohamed on the same team at init AG (UAE) as Business Development Director 
 **Context:** High-impact projects in cloud infrastructure and digital transformation
 
 > "I had the pleasure of working with Mohamed Ben Lakhoua at ]init[ in the UAE on high-impact projects in cloud infrastructure and digital transformation. As a seasoned leader in Service Delivery Management, Mohamed demonstrated exceptional expertise in overseeing complex operations with seamless execution. His proficiency in Cloud Operations optimized systems for scalability and efficiency, while his mastery of SLA Management ensured agreements exceeded client expectations, building trust and reliability. In Customer Success, he aligned solutions with business goals, proactively addressing challenges to boost satisfaction and retention. Mohamed is a strategic thinker and collaborative team player—a true asset. I highly recommend him for roles emphasizing innovation and excellence."
@@ -91,7 +91,7 @@ Based on 23 recommendations received, common themes include:
 
 ### **Ammar Qurneh** | Chief Executive Officer at Innovent WIOT360
 **Date:** August 26, 2022  
-**Relationship:** Mohamed was client (init AG serving WIOT360)  
+**Relationship:** Ammar was client (init AG serving ADSIC, Ammar Abu Dhabi e-Goverment Operations Director)  
 **Context:** Long-term professional relationship spanning 6+ years
 
 > "Outstanding skills including problem solving, managing staff and client deliverables. Mohamed is very well organized with ability to provide logical and well-structured approach to client challenges. In depth knowledge of large scale systems from networking, infrastructure and DevOps perspectives. Enjoyed working with Mohamed..."
@@ -109,7 +109,7 @@ Based on 23 recommendations received, common themes include:
 
 ### **Fathallah Lahlou** | COO / Founder
 **Date:** September 1, 2023  
-**Relationship:** Professional collaboration (different companies)  
+**Relationship:** Fathallah was client (init AG serving WIOT360 for a mobile App collaboration)   
 **Context:** External collaboration on projects
 
 > "In my collaborations with Mohamed B. Lakhoua, his dedication to client satisfaction has always stood out. He masterfully manages projects to ensure they are completed on time, consistently meeting and often surpassing client expectations. His balance of technical acumen and keen project management makes him an asset in any team. I highly recommend Mohamed for his unparalleled commitment and expertise."
@@ -163,7 +163,7 @@ Based on 23 recommendations received, common themes include:
 
 ### **Hadrien Carpentier** | General Manager at Voodoo.io
 **Date:** December 24, 2024  
-**Relationship:** Worked with Mohamed on different teams at The Sandbox  
+**Relationship:** Worked with Mohamed on different teams at The Sandbox, Hadrien was LiveOps Director at the Sandbox  
 **Context:** 2 years collaboration on production pipelines
 
 > "I had the privilege of working with Mohamed for two years at The Sandbox, where his organizational talent and leadership consistently improved product quality, vision and collaboration between teams. Mohamed stepped in to streamline production pipelines for multiple teams, often bringing order and process optimization, as well as helping everyone hit their deadlines. His ability for building trust and resolving conflicts quickly and effectively not only saved projects from stalling but also fostered a healthy, collaborative environment that boosted our overall productivity and creativity. What really stood out to me was Mohamed's ability to translate strategic goals into actionable steps. He ensured that team members had the clarity and resources they needed, while also keeping a sharp eye on quality and efficiency. Whether he was bridging communication gaps, optimizing processes, or providing mentorship, Mohamed approached every challenge with a calm demeanor and a solutions-oriented mindset. In short, Mohamed is the type of leader who empowers those around him and consistently raises the bar for teamwork and results. I highly recommend him to any organization looking for someone who can unite teams, enhance processes and product quality, deliver projects on schedule, and genuinely elevate company culture."
@@ -182,7 +182,7 @@ Based on 23 recommendations received, common themes include:
 
 ### **Dario Herrero** | IT Manager
 **Date:** November 17, 2024  
-**Relationship:** Worked with Mohamed on the same team  
+**Relationship:** Worked with Mohamed on the same team reporting both to the CTO  
 **Context:** Observed leadership and organizational impact
 
 > "Having worked alongside Mohamed, I have seen firsthand the incredible impact he has on both his team and the organization as a whole. Mohamed embodies the perfect blend of professionalism, strategic thinking, and empathy. He leads by example, setting high standards while fostering an environment of mutual respect and collaboration. He approaches challenges with calmness and clarity, breaking down complex issues and providing practical, innovative solutions. His ability to adapt quickly and make informed decisions has repeatedly proven invaluable to the company. Beyond his professional achievements, Mohamed's character shines brightly. He is a kind, supportive, and genuine person who goes out of his way to uplift others. Whether it's offering words of encouragement during a difficult project or celebrating successes, Mohamed's positive influence is felt by everyone around him. In short, Mohamed is the kind of leader who not only drives results but also inspires and elevates those fortunate enough to work with him. I wholeheartedly recommend him without reservation and am confident he will continue to excel in every endeavor he undertakes."
@@ -236,7 +236,7 @@ Based on 23 recommendations received, common themes include:
 ### **Ola Sharawi** | Digital Content Marketing Manager at Miral Destinations
 **Date:** August 17, 2022  
 **Relationship:** Worked with Mohamed on the same team at init AG (Abu Dhabi)  
-**Context:** Projects in Abu Dhabi
+**Context:** Projects in Abu Dhabi for the e-Government (6 years) and Health Authority Website (2 years)
 
 > "It is a great pleasure to have worked with Mohammed years ago. He is an excellent leader and his skills in management and communication have led our team to achieve great successes in our projects in Abu Dhabi. He is highly dedicated to his work and always puts the needs of the team members first. In addition to that, Mohamed is very supportive and a great motivator to his team."
 
