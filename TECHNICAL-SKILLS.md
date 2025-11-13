@@ -182,7 +182,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **Bash/Shell** | Intermediate* |3 years | Automation scripts, system administration |
 | **MS SQL** | Advanced | 10+ years | Database queries, optimization, reporting |
 | **PowerShell** | Intermediate* | 2 years | Windows server automation |
-*Actively using AI copilots (GitHub Copilot, ChatGPT, Claude, Perplexity) for efficient development
+*With AI copilots
 
 ---
 
