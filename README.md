@@ -10,7 +10,11 @@ Building profitable, resilient cloud service organizations across Europe & MENA
 
 ## 👋 Welcome
 
-This repository documents my **hands-on technical capabilities** and leadership experience across Datacenters/cloud infrastructure, DevOps, and platform engineering. While I operate at VP/Director level focusing on strategy, P&L, and team leadership, I maintain deep technical expertise and can be hands-on when needed—particularly valuable for startups and scale-ups.
+This repository documents my **hands-on technical capabilities** and **leadership experience** across datacenter/cloud infrastructure, DevOps, and Systems Engineering. 
+
+While I operate at VP/Director/Head level focusing on strategy, P&L, and team leadership, I maintain deep technical expertise in **infrastructure, security, systems administration, and networking**—enabling me to architect solutions, validate technical decisions, and step in during critical moments.
+
+**For startups:** I can be hands-on from Day 1, building teams, processes, and infrastructure from ground zero, then naturally transitioning to strategic leadership as the organization scales.
 
 **Key Stats:**
 - 🎯 **25+ years** in Datacenter/cloud operations, IT infrastructure setup and service delivery. 
@@ -61,7 +65,9 @@ Third-party endorsements and recommendations:
 
 I believe in **"hands-off leadership with hands-on capability"**:
 
-> "Great technical leaders set direction, empower experts, and remove obstacles—but they must deeply understand the technology to make informed strategic decisions. I maintain hands-on skills through AI-assisted development, enabling me to validate architectural decisions, mentor teams effectively, and step in during critical moments."
+> "Great technical leaders set direction, empower experts, and remove obstacles—but they must deeply understand the technology to make informed decisions. 
+I maintain hands-on proficiency through AI-assisted development (GitHub Copilot, ChatGPT, Claude, Perplexity, RovoAI), continuous learning, and real-world practice—enabling me to validate architecture, mentor effectively, and step in during critical moments.
+**My leadership philosophy:** Build strong teams who execute faster than I can—but maintain technical depth to earn their respect, make informed decisions, and guide strategic direction."
 
 ### **My Approach:**
 - ✅ **Strategic by default** - Focus on P&L, client relationships, and organizational design
