@@ -78,7 +78,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **F5 Load Balancing** | Intermediate | 3 years |
 | **DNS Management** | Advanced | 10+ years |
 | **SMTP Management** | Advanced | 10+ years |
-| **VPN Configuration** | Intermediate | 5 years |
+| **VPN Configuration** | Advanced | 10+ years |
 
 
 ### Compliance & Governance
