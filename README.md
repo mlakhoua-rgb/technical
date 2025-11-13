@@ -104,14 +104,18 @@ I maintain hands-on proficiency through AI-assisted development (GitHub Copilot,
 **Languages:** English (Fluent) · French (Fluent) · Arabic (Native) · German (Basic)
 
 **Experience Managing Teams In:**
-- 🇩🇪 Germany (Berlin - 4 years)
+- 🇩🇪 Germany (Berlin, Mainz - 4 years)
 - 🇦🇪 UAE (Abu Dhabi - 10 years)
-- 🇶🇦 Qatar (Doha - 8 years)
+- 🇮🇳 India (Remote - 6 years) 
+- 🇶🇦 Qatar (Doha - 10 years)
 - 🇫🇷 France (Paris - 3 years)
 - 🇦🇷 Argentina (Remote - 3 years)
 - 🇺🇾 Uruguay (Remote - 3 years)
 - 🇷🇴 Romania (Remote - 5 years)
-
+- 🇧🇬 Bulgaria (Remote - 2 years)
+- 🇨🇿 Czech Republic (Remote - 1 year)
+- 🇹🇳 Tunisia (Tunis - 2 years)
+- 🇵🇭 Philippines (Remote - 2 years)
 ---
 
 ## 📫 Contact
@@ -122,7 +126,7 @@ I maintain hands-on proficiency through AI-assisted development (GitHub Copilot,
 
 **Reach out for:**
 - VP/Director/Head of Operations, Infrastructure, Service Delivery roles
-- Advisory/consulting for cloud operations optimization
+- Advisory/consulting for cloud setup and operations optimization
 - Speaking engagements on DevOps culture and operational excellence
 
 **Email:** mo@metafive.one  
