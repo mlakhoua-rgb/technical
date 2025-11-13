@@ -151,7 +151,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **Terraform** | Intermediate* | 3 years | Module creation with AI assistance (GitHub Copilot) |
 | **CloudFormation** | Intermediate* | 3 years | AWS resource provisioning with AI templates |
 | **Ansible** | Intermediate* | 3 years | Configuration management, server provisioning |
-*Proficient with AI copilots for accelerated configuration and provisioning 
+*With AI copilots 
 
 ### CI/CD Pipelines
 | Technology | Proficiency | Experience | Key Implementations |
@@ -257,7 +257,6 @@ Designed and implemented a high-performance video add-on card capable of ingesti
 
 ## 1997–2008 · Foundation (Qatar)
 Built **five enterprise datacenters from scratch** over 10 years, covering full-stack infrastructure engineering:
-
 - **Networking:** Cisco Catalyst/Nexus, ASA/Pix, Juniper SRX/EX, VLANs, STP, OSPF/BGP  
 - **Servers & Virtualization:** HP/IBM/DELL server farms, VMware ESXi/vCenter, Hyper-V, clustering, HA/DR design  
 - **Storage:** EMC VNX/Isilon, NetApp FAS, SAN/NAS, Fibre Channel, zoning, replication  
@@ -267,7 +266,6 @@ Built **five enterprise datacenters from scratch** over 10 years, covering full-
 - **Operational Readiness:** CMDB, ITIL processes, NOC setup, incident/alert flows, disaster-recovery drills  
 
 Delivered **production-grade, secure, and highly available infrastructure** for mission-critical government and enterprise systems.
-
 **Business Systems Engineering:** Oracle Developer/Designer/RAC, Macromedia Dreamweaver/Fireworks/Flash  
 **Training Impact:** Trained **~1,000 ICT professionals** over 10 years, continuously updating materials across each new technology release.
 
@@ -275,7 +273,6 @@ Delivered **production-grade, secure, and highly available infrastructure** for 
 
 ## 2008–2018 · Scale (Abu Dhabi)
 Engineered and operated large-scale **e-Government platforms** running on Solaris + RHEL with complex Oracle middleware and enterprise-grade security:
-
 - **Platform Stack:** Solaris 10/11, RHEL 6/7, Oracle WebCenter Portal (WCP), WebCenter Content (WCC), Oracle Service Bus (OSB), Oracle Database RAC  
 - **Middleware & Integration:** SOA Suite, JVM tuning, connection pools, HA clusters, F5 load balancers, multi-tier architectures  
 - **Networking & Security:** Cisco ASA, Cisco CSS, Cisco IDS/IPS, site-to-site VPN, micro-segmentation, Squid reverse proxies, zero-trust patterns  
@@ -295,21 +292,21 @@ Led enterprise-scale **DevOps, Cloud, and Platform Engineering** across Azure, O
 - **Cloud & Infrastructure:** Azure (VMs, Storage, VNETs, CDN), hybrid networking, VPN/ExpressRoute  
 - **On-Prem Virtualization:** VMware vSphere/ESXi, vCenter, distributed switches, template provisioning, snapshots/clones, HA/DRS clusters, lifecycle of **~500 CentOS VMs**  
 - **Sitecore Stack:** IaaS/PaaS/SaaS deployments, CM/CD clusters, Solr search, content delivery scaling  
-- **Containers & Platform Engineering:** OpenShift OCP 3.x/4.x, Operators, ImageStreams, Routes, service mesh, upgrades, quotas, governance, pricing models for German e-Gov MVPs  
-- **CI/CD & Automation:** Azure DevOps, GitLab CI, YAML pipelines, automated infra builds, ArgoCD, artifact versioning, IaC initiation  
+- **Containers & Platform Engineering:** OpenShift OCP 3.x/4.x, upgrades, quotas, governance, pricing models for e-Gov MVPs  
+- **CI/CD & Automation:** GitLab CI, YAML pipelines, automated infra builds, ArgoCD, Octopus for Sitecore, artifact versioning, IaC initiation on Ansible  
 - **Security & Compliance:** Zero-trust, RBAC, Key Vault, secrets rotation, image hardening, vulnerability remediation (mainly on-prem)  
-- **Monitoring & Observability:** Prometheus/Grafana, OpenShift Monitoring, Application Insights, Log Analytics, distributed tracing, custom probes, SLO/SLI dashboards  
-- **DevOps Culture:** DORA metrics, GitOps, postmortems, chaos drills, reliability coaching  
-- **Scalability & Performance:** AKS autoscaling (HPA/KEDA), Cloudflare CDN, caching, build/deploy optimizations, tuning for **Java, LAMP, .NET e-Gov microservices**  
+- **Monitoring & Observability:** Prometheus/Grafana, OpenShift Monitoring, Application Insights, Log Analytics, distributed tracing, custom probes, SLA/SLI dashboards  
+- **DevOps Culture:** DORA metrics, GitOps, postmortems, chaos drills, reliability coaching  and Sales, PM, DEV and OPS Collaboration practices and workshops. 
+- **Scalability & Performance:** Cloudflare CDN, caching, build/deploy optimizations, tuning for **Java, LAMP, .NET e-Gov microservices**  
 
 Delivered **secure, reliable, scalable** platforms for German/EU government services while institutionalizing modern DevOps and SRE practices.
 
 ---
 
 ## 2022–2025 · Modern Cloud Operations (Paris)
-Directed global **Cloud Operations, DevOps governance, and release orchestration** across teams in France, Germany, Singapore, and the UAE for a large-scale Web3 gaming ecosystem.
+Directed global **Cloud Operations, DevOps governance, and release orchestration** across teams in France, Germany, Uruguay, and Argentina for a large-scale Web3 gaming ecosystem.
 
-- **Cloud & Platform Stack:** AWS (EC2, ALB/ELB, S3, CloudFront, IAM, VPC, Route53), Cloudflare CDN/WAF/DDoS, Cloudinary, Redis, Web3 infra (RPC endpoints, indexers, wallets)  
+- **Cloud & Platform Stack:** AWS (EC2, ALB/ELB, S3, CloudFront, IAM, VPC), Cloudflare CDN/WAF/DDoS, Cloudinary, Redis, Web3 infra (RPC endpoints, indexers, wallets)  
 - **Cloudflare Security:** WAF tuning, DDoS mitigation, Bot Management, IP rate-limits, caching, traffic shaping, continuous attack-pattern analysis  
 - **Global Release Orchestration:** Unified CI/CD & release standards, trunk-based development, environment promotion flows, deployment safety, synchronized releases across **4–5 time zones**  
 - **DevOps Governance:** GitOps alignment, SLO/SLI frameworks, incident playbooks, blameless postmortems, change-management gates, operational KPIs  
@@ -320,14 +317,14 @@ Directed global **Cloud Operations, DevOps governance, and release orchestration
 - Implemented structure, templates, permissions, and documentation workflows
 
 ### Security Programs
-- Designed and operationalized the **Bug Bounty program** (scope, workflows, triage, validation, disclosure)  
+- Designed and operationalized the **Bug Bounty program** (scope, workflows, triage, validation, disclosure and SAND rewards)  
 - Ran the program end-to-end until CISO onboarding, managing researcher interactions, patch coordination, and policy refinement  
 
 ### Delivery Tooling
 - Jira workflows, release dashboards, Confluence governance, Bitbucket integrations, automation rules, operational playbooks  
 
 ### AI-Assisted Operations
-- Used ChatGPT/Claude for config audits, pipeline analysis, release reviews, documentation, and troubleshooting  
+- Used ChatGPT/Claude for config audits, pipeline analysis, release and error log reviews, documentation, and troubleshooting  
 
 Delivered **operational predictability, security hardening, and unified collaboration tooling** across a globally distributed engineering organization.
 
