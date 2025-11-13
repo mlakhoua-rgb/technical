@@ -251,7 +251,6 @@ I maintain technical proficiency through:
 ## 📊 Skills Development Timeline
 1994-1995 – Final Engineering Project (6 months)
 Designed and implemented a high-performance video add-on card capable of ingesting two analog video signals, digitizing them via custom-designed electronics, and executing real-time motion detection and direction forecasting using a Xilinx FPGA. This involved board-level schematic design, signal conditioning, analog-to-digital conversion, FPGA logic development (HDL) for motion vector estimation, and integration with video I/O. Achieved an “Excellent” grade (16/20) on the basis of innovation, technical execution and performance.
-
 # 💼 Professional Timeline
 
 ---
@@ -333,8 +332,9 @@ Directed global **Cloud Operations, DevOps governance, and release orchestration
 Delivered **operational predictability, security hardening, and unified collaboration tooling** across a globally distributed engineering organization.
 
 
+
 2025+: Executive + Hands-On Capability
-- Strategic leadership with maintained technical dept
+- Strategic leadership with maintained technical depth
 
 ---
 
