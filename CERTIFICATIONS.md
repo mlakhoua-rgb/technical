@@ -121,16 +121,16 @@ Comprehensive list of industry certifications demonstrating commitment to contin
 | Course | Provider | Duration | Focus |
 |--------|----------|----------|-------|
 | Generative AI for Executives | Stanford Online | 8 weeks | Strategic AI adoption |
-| FinOps Foundation | 20 hours | Cloud cost optimization |
+| FinOps Certified Practitioner | FinOps Foundation | 20 hours | Cloud cost optimization |
 | GitHub Copilot Mastery | GitHub Learning | 6 hours | AI-assisted development |
 
 ### **2023**
 
 | Course | Provider | Duration | Focus |
 |--------|----------|----------|-------|
-| AWS Well-Architected Framework | AWS Training | 16 hours | Architecture best practices | and rolled on The Sandbox in 2023, 2024 and 2025 with AWS Architects
+| AWS Well-Architected Framework* | AWS Training | 16 hours | Architecture best practices | 
 | DevOps Leadership | DevOps Institute | 60 hours | Leading DevOps Transformation |
-
+*Rolled on The Sandbox in 2023, 2024 and 2025 with AWS Senior Architects
 ### **2022**
 
 | Course | Provider | Duration | Focus |
