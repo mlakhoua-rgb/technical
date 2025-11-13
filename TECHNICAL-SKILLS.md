@@ -14,7 +14,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 
 ---
 
-## ☁️ Cloud Networking, Security & admin Hands-on
+## ☁️ Cloud, Networking, Security & admin Hands-on
 
 ### Microsoft Azure
 | Service/Technology | Proficiency | Experience | Key Implementations |
@@ -48,17 +48,6 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 
 ---
 
-## 🐳 Container Orchestration & Platform Engineering
-
-| Technology | Proficiency | Experience | Key Implementations |
-|------------|-------------|------------|---------------------|
-| **Kubernetes** | Intermediate | 2 years | Architect and Project Manager of the implementation |
-| **OpenShift** | Intermediate | 4 years | Architect and Project Manager of the implementation  |
-| **Helm** | Intermediate | 2 years | Architect and Project Manager of the implementation  |
-| **Docker Compose** | Advanced | 5 years | Architect and Project Manager of the implementation |
-
----
-
 ## 🔐 Networking, Security & Compliance
 
 ### Security Technologies
@@ -67,18 +56,18 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **Palo Alto Firewalls** | Intermediate | 4 years | Next-gen firewall configuration for government clients |
 | **Cisco ASA/IDS** | Expert | 10+ years  | Enterprise firewall management |
 | **Cloudflare WAF** | Advanced | 5 years | Web application firewall, DDoS protection |
-| **Zero-Trust Architecture** | Advanced | 6+ years | Implemented for government and financial clients |
-| **MPLS Private Cloud** | Advanced | 6 years | G2G e-services for Abu Dhabi government |
-| **SSL/TLS Management** | Advanced | 10+ years | Certificate automation, renewal workflows |
+| **Zero-Trust Architecture** | Expert | 6+ years | Implemented for government and financial clients |
+| **MPLS Private Cloud** | Expert | 6 years | G2G e-services for Abu Dhabi government |
+| **SSL/TLS Management** | Expert | 10+ years | Certificate automation, renewal workflows |
 
 ### Networking Technologies
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
 | **CISCO Load Balancing** | Advanced | 5+ years |
 | **F5 Load Balancing** | Intermediate | 3 years |
-| **DNS Management** | Advanced | 10+ years |
-| **SMTP Management** | Advanced | 10+ years |
-| **VPN Configuration** | Advanced | 10+ years |
+| **DNS Management** | Expert | 10+ years |
+| **SMTP Management** | Expert | 10+ years |
+| **VPN Configuration** | Expert | 10+ years |
 
 
 ### Compliance & Governance
@@ -86,10 +75,71 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 |-----------|-------------|------------|---------------------|
 | **ISO 27001** | Expert | 10+ years | Familiar as its Project Manager of the audit and multiple audits that have passed yearly|
 | **ISO 22301** | Expert | 10+ years | Business continuity planning, DR implementation |
-| **ADSIC v2** | Advanced | 6 years | Abu Dhabi government security compliance |
+| **ADSIC v2** | Expert | 6 years | Abu Dhabi government security compliance |
 | **ITIL v3 & v4** | Expert | 15+ years | Service delivery framework implementation |
 | **SOC 2** | Foundational | 1 year | Aware of requirements, can implement with guidance |
-| **GDPR** | Intermediate | 4 years | Data privacy compliance for EU clients |
+| **GDPR** | Advanced | 6+ years | Data privacy compliance for EU clients |
+
+---
+
+## 📊 Monitoring, Reporting, Observability & SRE
+
+| Technology | Proficiency | Experience | Key Implementations |
+|------------|-------------|------------|---------------------|
+| **ManageEngine Applications Manager** | Expert | 10+ years | Large-scale deployments; distributed monitoring, high-scalability |
+| **ManageEngine OpManager** | Expert | 10+ years | Network, server, storage performance monitoring and alerting |
+| **Blazemeter** | Expert | 10+ years | Load and stress testing |
+| **Datadog** | Advanced | 4 years | Custom dashboards, APM, SLO tracking |
+| **Prometheus** | Advanced | 4 years | Metrics collection, alerting rules |
+| **Grafana** | Advanced | 4 years | Visualization dashboards, real-time monitoring |
+| **CloudWatch** | Advanced | 6 years | AWS-native monitoring, custom metrics |
+| **Opsgenie** | Advanced | 4 years  |24/7/365 Team rotation across multiple Time Zone  |
+| **PagerDuty** | Advanced | 5 years | Incident management, on-call rotation |
+| **Status Page** | Advanced | 5 years | End-users and community transparency on incidents and resolution progress |
+
+
+### SRE Practices
+- **SLO/SLA Management**: Maintained 99.9-99.99% uptime across platforms
+- **Incident Response**: <15 minute MTTR through AI-assisted automation
+- **Capacity Planning**: Scaled infrastructure 3x while maintaining performance
+- **Post-Mortem Culture**: Blameless retrospectives, continuous improvement
+
+---
+
+## 🎛️ Service Management & ITSM
+
+| Tool/Practice | Proficiency | Experience | Key Implementations |
+|---------------|-------------|------------|---------------------|
+| **Jira Service Management** | Expert | 10 years | 20+ workflows, SLA automation |
+| **ManageEngine ServiceDesk Plus** | Expert | 10+ years | Monitoring, automations, reporting, Dashboards |
+| **Zendesk** | intermediate | 2+ years | Monitoring, automations, reporting, Dashboards |
+| **ITIL Processes** | Expert | 15+ years | Incident, Problem, Change Management |
+| **Change Management** | Expert | 15+ years | CAB processes, risk assessment |
+| **Incident Management** | Expert | 15+ years | <15min MTTR, automated escalations |
+| **Problem Management** | Expert | 15+ years | Root cause analysis, preventive measures |
+| **Business Continuity Management** | Expert | 15+ years | Disaster Recovery and Business Continuity Plans  |
+
+---
+
+## 🗄️ Databases & Data Management
+
+| Technology | Proficiency | Experience | Key Implementations |
+|------------|-------------|------------|---------------------|
+| **MS SQL** | Advanced | 10+ years | Sharepoint then Sitecore Portal multiple implementations |
+| **MySQL** | Intermediate | 4 years | Enterprise databases for LAMP web solutions |
+| **MongoDB** | Intermediate | 4 years | NoSQL for Web3 gaming platform and other websites Analytics |
+| **Oracle Database** | Advanced | 8 years | e-Government portals, mission-critical systems |
+| **Redis** | Intermediate | 3 years | Caching layers, session management |
+| **Elasticsearch** | Intermediate | 2 years | Search and analytics |
+
+## 🐳 Container Orchestration & Platform Engineering
+
+| Technology | Proficiency | Experience | Key Implementations |
+|------------|-------------|------------|---------------------|
+| **Kubernetes** | Intermediate | 2 years | Architect and Project Manager of the implementation |
+| **OpenShift** | Intermediate | 4 years | Architect and Project Manager of the implementation  |
+| **Helm** | Intermediate | 2 years | Architect and Project Manager of the implementation  |
+| **Docker Compose** | Expert | 5 years | Architect and Project Manager of the implementation |
 
 ---
 
@@ -110,47 +160,15 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **GitHub Actions** | Intermediate* | 2 years | Automated deployments with AI-generated workflows |
 | **GitLab CI** | Intermediate* | 3 years | Pipeline configuration for enterprise projects |
 | **Jenkins** | Intermediate | 4 years | Legacy CI/CD systems maintenance |
-| **Jira Service Management** | Advanced | 5 years | 20+ ITSM workflows, automation rules |
+| **Jira Service Management** | Expert | 6+ years | 20+ ITSM workflows, automation rules |
 
 ### Version Control & Collaboration
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| **GitHub** | Advanced | 5 years |
+| **GitHub** | Advanced | 4 years |
 | **GitLab** | Advanced | 4 years |
-
----
-
-## 📊 Monitoring, Observability & SRE
-
-| Technology | Proficiency | Experience | Key Implementations |
-|------------|-------------|------------|---------------------|
-| **Datadog** | Advanced | 4 years | Custom dashboards, APM, SLO tracking |
-| **Prometheus** | Advanced | 4 years | Metrics collection, alerting rules |
-| **Grafana** | Advanced | 4 years | Visualization dashboards, real-time monitoring |
-| **CloudWatch** | Advanced | 6 years | AWS-native monitoring, custom metrics |
-| **Opsgenie** | Advanced | 4 years  |24/7/365 Team rotation across multiple Time Zone  |
-| **PagerDuty** | Advanced | 5 years | Incident management, on-call rotation |
-| **Status Page** | Advanced | 5 years | End-users and community transparency on incidents and resolution progress |
-
-### SRE Practices
-- **SLO/SLA Management**: Maintained 99.9-99.99% uptime across platforms
-- **Incident Response**: <15 minute MTTR through AI-assisted automation
-- **Capacity Planning**: Scaled infrastructure 3x while maintaining performance
-- **Post-Mortem Culture**: Blameless retrospectives, continuous improvement
-
----
-
-## 🗄️ Databases & Data Management
-
-| Technology | Proficiency | Experience | Key Implementations |
-|------------|-------------|------------|---------------------|
-| **MS SQL** | Advanced | 10+ years | Sharepoint then Sitecore Portal multiple implementations |
-| **MySQL** | Intermediate | 4 years | Enterprise databases for LAMP web solutions |
-| **MongoDB** | Intermediate | 4 years | NoSQL for Web3 gaming platform and other websites Analytics |
-| **Oracle Database** | Advanced | 8 years | e-Government portals, mission-critical systems |
-| **Redis** | Intermediate | 3 years | Caching layers, session management |
-| **Elasticsearch** | Intermediate | 2 years | Search and analytics |
-
+| **SVN** | Advanced | 6 years |
+| **Bamboo** | Advanced | 6 years |
 
 ---
 
@@ -161,8 +179,7 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 | **ActionScript** | Advanced | 6+ years | Dynamic DB driven animations on Flash |
 | **PL/SQL** | Advanced | 6+ years | Systems Development with Oracle Developer |
 | **C/C++/C#** | Advanced | 6+ years | Sharepoint and Sitecore Administration |
-| **Bash/Shell** | Intermediate* | 15+ years | Automation scripts, system administration |
-| **Python** | Intermediate* | 5 years | Infrastructure automation, data processing with AI assistance |
+| **Bash/Shell** | Intermediate* |3 years | Automation scripts, system administration |
 | **MS SQL** | Advanced | 10+ years | Database queries, optimization, reporting |
 | **PowerShell** | Intermediate* | 2 years | Windows server automation |
 *Actively using AI copilots (GitHub Copilot, ChatGPT, Claude, Perplexity) for efficient development
@@ -181,18 +198,6 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 
 ---
 
-## 🎛️ Service Management & ITSM
-
-| Tool/Practice | Proficiency | Experience | Key Implementations |
-|---------------|-------------|------------|---------------------|
-| **Jira Service Management** | Expert | 10 years | 20+ workflows, SLA automation |
-| **ITIL Processes** | Expert | 15+ years | Incident, Problem, Change Management |
-| **Change Management** | Expert | 15+ years | CAB processes, risk assessment |
-| **Incident Management** | Expert | 15+ years | <15min MTTR, automated escalations |
-| **Problem Management** | Expert | 15+ years | Root cause analysis, preventive measures |
-| **Business Continuity Management** | Expert | 15+ years | Disaster Recovery and Business Continuity Plans  |
-
----
 
 ## 🏗️ Content Management Systems
 
@@ -209,10 +214,14 @@ Comprehensive breakdown of hands-on technical capabilities across cloud infrastr
 
 | Tool | Proficiency | Experience |
 |------|-------------|------------|
+| **MS Sharepoint** | Expert | 10+ years |
+| **MS Office 365** | Expert | 10+ years |
 | **Slack** | Expert | 5 years |
 | **Microsoft Teams** | Advanced | 4 years |
 | **Confluence** | Advanced | 6 years |
 | **Zoom** | Advanced | 4 years |
+| **Notion** | Advanced | 6 years |
+
 
 ---
 
