@@ -81,9 +81,9 @@ I maintain hands-on proficiency through AI-assisted development (GitHub Copilot,
 
 ### **The Sandbox (2022-2025)** | Global Operations Director
 - Governed $3M cloud budget across 300+ Kubernetes pods (AWS EKS)
-- Led 144 engineers across 5 countries (Argentina, Uruguay, Romania, Germany, France)
+- Led directly and indirectly over 100 engineers across 5 countries (Argentina, Uruguay, Romania, Germany, France)
 - Achieved $250K+ annual savings through FinOps optimization
-- Built unified DevOps culture with <15min incident response
+- Built unified DevOps culture 
 
 ### **init AG (2008-2022)** | Head of Operations & Delivery
 - Managed €9M OPEX + €4M revenue pipeline (40% EBIT margins)
@@ -118,12 +118,6 @@ I maintain hands-on proficiency through AI-assisted development (GitHub Copilot,
 - 🇵🇭 Philippines (Remote - 2 years)
 ---
 
-## 📫 Contact
-
-**Available:** December 2025  
-**Location:** Paris, Île-de-France, France (Open to hybrid/remote in EU)  
-**Visa Status:** French resident, Passport Talent - Highly Skilled Category
-
 **Reach out for:**
 - VP/Director/Head of Operations, Infrastructure, Service Delivery roles
 - Advisory/consulting for cloud setup and operations optimization
@@ -145,7 +139,6 @@ mohamed-tech-portfolio/
 ├── CERTIFICATIONS.md                  ← Professional certifications
 ├── TRAINING.md                        ← Training and courses
 ├── RECOMMENDATIONS.md                 ← LinkedIn recommendations export
-└── ENDORSEMENTS.md                    ← Executive testimonials
 ```
 
 ---
