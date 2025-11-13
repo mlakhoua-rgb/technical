@@ -1,4 +1,4 @@
-# AI-Assisted Development Workflow
+# AI-Assisted Hands-on Workflow
 
 How I leverage AI copilots to maintain hands-on technical capabilities while operating at VP/Director level.
 
