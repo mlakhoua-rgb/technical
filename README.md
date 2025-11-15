@@ -1,6 +1,6 @@
 # Mohamed Ben Lakhoua - Technical Portfolio
 
-**VP/Director, Service Delivery & Cloud Operations**  
+**Glbal Director, Service Delivery & Cloud Operations**  
 Building profitable, resilient cloud service organizations across Europe & MENA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/benlakhoua)
