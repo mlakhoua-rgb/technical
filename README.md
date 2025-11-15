@@ -12,7 +12,7 @@ Building profitable, resilient cloud service organizations across Europe & MENA
 
 This repository documents my **hands-on technical capabilities** and **leadership experience** across datacenter/cloud infrastructure, DevOps, and Systems Engineering. 
 
-While I operate at VP/Director/Head level focusing on strategy, P&L, and team leadership, I maintain deep technical expertise in **infrastructure, security, systems administration, and networking**—enabling me to architect solutions, validate technical decisions, and step in during critical moments.
+While I operate at Director/Head level focusing on strategy, P&L, and team leadership, I maintain deep technical expertise in **infrastructure, security, systems administration, and networking**—enabling me to architect solutions, validate technical decisions, and step in during critical moments.
 
 **For startups:** I can be hands-on from Day 1, building teams, processes, and infrastructure from ground zero, then naturally transitioning to strategic leadership as the organization scales.
 
@@ -47,7 +47,7 @@ Third-party endorsements and recommendations:
 
 ## 🎯 What I Bring to Organizations
 
-### **For Established Companies (VP/Director Level):**
+### **For Established Companies (Director Level):**
 - **Strategic Leadership**: P&L ownership, multi-million euro budgets, executive stakeholder management
 - **Service Delivery Excellence**: 100% client retention, SLA governance, enterprise-scale operations
 - **Team Building**: Built 3-layer management structures, scaled teams from 5→50, 95%+ retention
