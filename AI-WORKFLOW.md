@@ -1,6 +1,6 @@
 # AI-Assisted Hands-on Workflow
 
-How I leverage AI copilots to maintain hands-on technical capabilities while operating at VP/Director level.
+How I leverage AI agents and copilots to maintain hands-on technical capabilities while operating at VP/Director level. Cursor 2.0, ChatGPT, Claude, Perplexity, Deepseek, MS Copilot, Gemini, Grok are used depending on the use case. 
 
 ---
 
@@ -28,9 +28,9 @@ As an executive, I don't write production code daily—but I maintain technical 
 - Documentation generation
 
 **Typical Workflow:**
-1. Write comment describing what I need
-2. Copilot generates code suggestion
-3. I review, customize, and validate
+1. Write prompt/comment describing what I need
+2. AI Agent or AI Copilot generates code suggestion
+3. I review, customize, and validate with another AI Agent/Copilot
 4. Test in sandbox environment
 5. Deploy with monitoring
 
