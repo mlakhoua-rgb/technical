@@ -1,6 +1,6 @@
 # AI-Assisted Hands-on Workflow
 
-How I leverage AI agents and copilots to maintain hands-on technical capabilities while operating at VP/Director level. Cursor 2.0, ChatGPT, Claude, Perplexity, Deepseek, MS Copilot, Gemini, Grok are used depending on the use case. 
+How I leverage AI agents and copilots to maintain hands-on technical capabilities while operating at Director level. Cursor 2.0, ChatGPT, Claude, Perplexity, Deepseek, MS Copilot, Gemini, Grok are used depending on the use case. 
 
 ---
 
